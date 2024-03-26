@@ -18,6 +18,7 @@
 </div>
 
 # Olá! Eu sou o José Rodolfo Kreutzer👋
+<br>
 
 - 🔭 Hoje eu trabalho como desenvolvedor front-end
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFC - Instituto Federal Catarinense
@@ -25,14 +26,7 @@
 
 <br>
 
-
-
-<br>
-
 ## 🚀 Tecnologias que utilizo no momento:
-
-
-
 <br>
 
 * HTML <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -52,20 +46,16 @@
 <br>
 
 ## 🚀 Tecnologias que estou aprendendo:
-
-
-
 <br>
 
 * Typescript <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 * Tailwind <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-
 <br>
 
 ## 🚀 Tecnologias que planejo aprender:
-
+<br>
 
 * Next.js <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
@@ -79,6 +69,7 @@
 <br>
 
 ## Redes Sociais
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr.kreutzer/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-kreutzer-614372173)
 
@@ -86,7 +77,7 @@
 
 
 ## ☎ Contato
-
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.kreutzer@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999796363)
   
