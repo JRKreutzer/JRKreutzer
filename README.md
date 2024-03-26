@@ -1,16 +1,85 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:780206,100:061161&reversal=false&textBg=false&rotate=1&descAlignY=60&fontAlignY=30&section=header"/>
+<br>
+<br> 
 
-<!--
-**JRKreutzer/JRKreutzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Olá!;Me+chamo+José+Rodolfo+Kreutzer;Eu+tenho+32+anos;E+sou+um+Desenvolvedor+Front-end;Bem-vindo%3A)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JRKreutzer&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JRKreutzer?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=green&dark=true)
+
+</div>
+
+# Olá! Eu sou o José Rodolfo Kreutzer👋
+
+- 🔭 Hoje eu trabalho como desenvolvedor front-end
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFC - Instituto Federal Catarinense
+- 😄 Pronomes: ele/dele
+
+<br>
+
+
+
+<br>
+
+## 🚀 Tecnologias que utilizo no momento::
+
+
+
+<br>
+
+* HTML <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+* CSS <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+* Javascript <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+* React <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+* Python <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRKreutzer&layout=donut&theme=dark&langs_count=8&locale=pt-br)](https://github.com/JRKreutzer/github-readme-stats)
+
+
+
+
+<br>
+
+## Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr.kreutzer/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-kreutzer-614372173)
+
+<br>
+
+
+## ☎ Contato
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.kreutzer@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999796363)
+  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center" >
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JRKreutzer&bg_color=000000&color=ffffff&line=780206&point=061161&area=true&hide_border=true&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+<div align="center">
+
+<br>
+<br>
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:780206,100:061161&reversal=false&textBg=false&rotate=1&descAlignY=60&fontAlignY=30&section=footer"/>
