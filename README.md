@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Olá!;Me+chamo+José+Rodolfo+Kreutzer;Eu+tenho+32+anos;E+sou+um+Desenvolvedor+Front-end;Bem-vindo%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=300&size=50&duration=4000&pause=1000&color=780206&center=true&vCenter=true&random=false&width=1000&lines=Olá!;Me+chamo+José+Rodolfo+Kreutzer;Eu+tenho+32+anos;E+sou+um+Desenvolvedor+Front-end;Bem-vindo%3A)](https://git.io/typing-svg)
 
 <div align="center">
   
