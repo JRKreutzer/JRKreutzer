@@ -20,9 +20,14 @@
 # Olá! Eu sou o José Rodolfo Kreutzer👋
 <br>
 
-- 🔭 Hoje eu trabalho como desenvolvedor front-end
+## Sobre Mim
+
+Sou um profissional dedicado ao desenvolvimento front-end, onde procuro criar interfaces de usuário dinâmicas e responsivas. Seguindo o conceito de formação em T, além de minhas habilidades no front-end, busco continuamente expandir meu conhecimento em áreas complementares. Atualmente, estou focado no desenvolvimento back-end utilizando Python, Django e FastAPI, visando me tornar um desenvolvedor mais completo e versátil, capaz de contribuir de forma significativa em projetos de desenvolvimento web de ponta a ponta.
+
+
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFC - Instituto Federal Catarinense
 - 😄 Pronomes: ele/dele
+- 🔗 Portfólio: visite o meu site com todos os meus projetos - [Portfólio](https://jose-kreutzer.vercel.app)
 
 <br>
 
@@ -39,6 +44,8 @@
 
 * Python <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+* Typescript <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRKreutzer&layout=donut&theme=dark&langs_count=8&locale=pt-br)](https://github.com/JRKreutzer/github-readme-stats)
@@ -48,9 +55,13 @@
 ## 🚀 Tecnologias que estou aprendendo:
 <br>
 
-* Typescript <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+* Django <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+          
+* FastAPI <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 
-* Tailwind <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+* SQL <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+* NoSQL <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 <br>
 
@@ -63,7 +74,7 @@
 
 * Express <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
-* Mongoose <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+* Tailwind <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 
 <br>
@@ -71,7 +82,7 @@
 ## Redes Sociais
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr.kreutzer/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-kreutzer-614372173)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr.kreutzer/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-rodolfo-kreutzer-614372173)
 
 <br>
 
